@@ -1,0 +1,45 @@
+# Finnish translations for PACKAGE package.
+# Copyright (C) 2026 THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Lauri Haukijärvi <lauri.haukijarvi@gmail.com>, 2026.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: 15\n"
+"Report-Msgid-Bugs-To: https://github.com/martinhjartmyr/gnome-shell-extension-focus-changer\n"
+"POT-Creation-Date: 2023-09-30 21:31-0300\n"
+"PO-Revision-Date: 2026-04-08 19:20+0300\n"
+"Last-Translator: Lauri Haukijärvi <lauri.haukijarvi@gmail.com>\n"
+"Language-Team: Finnish\n"
+"Language: fi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: prefs.js:15
+msgid "Focus changer"
+msgstr ""
+
+#: prefs.js:19
+msgid "Shortcuts"
+msgstr "Pikanäppäimet"
+
+#: prefs.js:26
+msgid "Focus up"
+msgstr "Siirry ylös"
+
+#: prefs.js:30
+msgid "Focus down"
+msgstr "Siirry alas"
+
+#: prefs.js:34
+msgid "Focus left"
+msgstr "Siirry vasemmalle"
+
+#: prefs.js:38
+msgid "Focus right"
+msgstr "Siirry oikealle"
+
+#: prefs.js:66
+msgid "Press the shortcut for this action"
+msgstr "Paina näppäinyhdistelmä tälle toiminolle"
